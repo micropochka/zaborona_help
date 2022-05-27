@@ -2189,7 +2189,8 @@ push "route 91.238.109.0 255.255.255.0"
 
 # Veesp
 push "route 77.73.64.0 255.255.248.0"
-
+push "route 94.242.0.0 255.255.192.0" # AS43317
+push "route 94.242.48.0 255.255.240.0" # AS43317
 ### HOSTINGS ###
 
 # uablacklist.net
